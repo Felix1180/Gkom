@@ -634,8 +634,7 @@ def simulasi(pilihan):
             screen.fill(WHITE)
 
             # Gambar grid
-            draw_grid_DDA(screen, GREY, SCREEN_WIDTH, SCREEN_HEIGHT,
-                          60)  # Ubah nilai 60 sesuai dengan ukuran sel yang Anda inginkan
+            draw_grid_DDA(screen, GREY, SCREEN_WIDTH, SCREEN_HEIGHT,60)  # Ubah nilai 60 sesuai dengan ukuran sel yang Anda inginkan
 
             # Gambar sumbu utama (x)
             draw_line_DDA(screen, BLACK, (0, SCREEN_HEIGHT // 2), (SCREEN_WIDTH, SCREEN_HEIGHT // 2))
@@ -684,7 +683,7 @@ def simulasi(pilihan):
             start_benda_y2 = start_benda_y1
 
             end_benda_x2 = start_benda_x2
-            end_benda_y2 = start_benda_y1 - (tinggi_benda * 0.615)  # BERHASIL WE DID IT
+            end_benda_y2 = start_benda_y1 - (tinggi_benda * 0.615)
 
             # ================================================#
             start_benda_x3 = start_benda_x1 + lebar_benda
