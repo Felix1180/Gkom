@@ -5,24 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92369de1-5c38-4eca-a5da-520f96d5a10c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SimulasiGrafkom1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Candara.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Candara_Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Cermin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Lensa_Cembung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simulasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CerminBG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CerminBR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Lensa_CembungBG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Lensa_CembungBR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/optimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tesss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/simulasi.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulasi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,6 +35,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Felix1180&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="01682411-22ba-4626-ac59-f50202e2625d" />
+        <option name="url" value="https://github.com/Felix1180/SimulasiGrafkom1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -45,19 +61,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.simulasi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.awdawd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.optimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simulasi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tesss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\eva\PycharmProjects\SimulasiGrafkom1\assets" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="awdawd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SimulasiGrafkom1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/awdawd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.awdawd" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -75,9 +125,47 @@
       <option name="presentableId" value="Default" />
       <updated>1709386213161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hampir final :D">
+      <option name="closed" value="true" />
+      <created>1709388892780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709388892780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hampir final :D">
+      <option name="closed" value="true" />
+      <created>1709433818922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709433818922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hampir final :D">
+      <option name="closed" value="true" />
+      <created>1709433827562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709433827562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hampir final :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hampir final :D" />
   </component>
 </project>
